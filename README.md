@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
-
  <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
 </p>
 
@@ -38,11 +36,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Inicie o servidor com `yarn dev`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
