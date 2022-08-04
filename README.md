@@ -28,7 +28,7 @@ O podcastr é um app para reprodução de episódios em áudio do seu podcast fa
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 🚀 Como executar
+## 🤝 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
@@ -36,3 +36,13 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Inicie o servidor com `yarn dev`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+
+## 📫 Contribuindo para o Portfólio
+
+Para contribuir com o Portfólio, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
